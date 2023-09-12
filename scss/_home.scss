@@ -8,15 +8,18 @@
         padding-top: 20.7rem;
         &.slide-01 {
           background: url("../assets/banner-slide-01.jpg") no-repeat center
-            center;
+            top;
+            background-size: cover;
         }
         &.slide-02 {
           background: url("../assets/banner-slide-02.jpg") no-repeat center
-            center;
+            top;
+            background-size: cover;
         }
         &.slide-03 {
           background: url("../assets/banner-slide-03.jpg") no-repeat center
-            center;
+            top;
+            background-size: cover;
           .left-content {
             max-width: 62.6rem;
           }
